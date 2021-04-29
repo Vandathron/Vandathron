@@ -5,7 +5,7 @@
 - I'm looking to collaborate on C#, Typescript, angular and flutter projects!
 - Ask me about Maths, data structures, cloud computing and DevOps.
 - Reach me @ akinnagbelast@gmail.com 
-- He/She
+- He/him
 - Fun fact?? 
 
 <!--
