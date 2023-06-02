@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tosin :blush: , stays at Lagos, Nigeria. I'm a software engineer. I'm currently working on backend and mobile projects with my team @DukabillsHQ. Work @ Axxess as an Integrations engineer.
+### I'm Tosin :blush: , stays at Lagos, Nigeria. I'm a software engineer.
 
 <!--
 **Vandathron/Vandathron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
