@@ -1,5 +1,5 @@
 ### Hi there 👋
-### I'm Tosin :blush: , stays at Lagos, Nigeria. I'm a software engineer.
+### I'm Tosin :blush: , lives in London. I'm a software engineer.
 
 <!--
 **Vandathron/Vandathron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
